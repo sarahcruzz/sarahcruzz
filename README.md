@@ -18,5 +18,4 @@ i'm a developer system in learning process working at Bosch company
 ---
 [![](https://visitcount.itsvg.in/api?id=sarahcruzz&icon=0&color=9)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/sarahcruzz/sarahcruzz/blob/output/github-contribution-grid-snake.svg)
 
