@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# ⚡ About Me:
 i'm a developer system in learning process working at Bosch company
 
 ## 🌐 Socials:
